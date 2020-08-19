@@ -1,15 +1,15 @@
 
-##:octocat: Aline Pereira
+:octocat: ## Aline Pereira
 ______________________________
 
 
-Ei, tudo bem? 👋
+### Ei, tudo bem? 👋
 
- Meu nome é Aline, sou Nutricionista e atualmente estou me dedicando a mudar de carreira como desenvolvedora Back-end :woman_technologist: 
- Me dedico e estudo diariamente para entender um pouco mais das tecnologias do meu dia-a-dia.
+ > Meu nome é Aline, sou Nutricionista e atualmente estou me dedicando a mudar de carreira como desenvolvedora Back-end :woman_technologist: 
+ > Me dedico e estudo diariamente para entender um pouco mais das tecnologias do meu dia-a-dia.
 
-👩‍💼 Estudante de Sistemas de Informação 💙
-📚Estudando através da Reprograma em parceria com o M.I.N.A.S
+* 👩‍💼 Estudante de Sistemas de Informação 💙
+* 📚Estudando através da Reprograma em parceria com o M.I.N.A.S
 
 
 <!--
