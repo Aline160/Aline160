@@ -1,7 +1,6 @@
 
-:octocat: ## Aline Pereira
-______________________________
-
+## Aline Pereira :octocat:
+_________________________________
 
 ### Ei, tudo bem? 👋
 
