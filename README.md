@@ -11,6 +11,11 @@ _________________________________
 * 📚Estudando através da Reprograma em parceria com o M.I.N.A.S
 
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Aline160&show_icons=true&title_color=f40000&icon_color=f40000&text_color=6C63FF&bg_color=090000"/> </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/aline-pereira-70276161/)](https://www.linkedin.com/in/aline-pereira-70276161/)
+
+
 <!--
 **Aline160/Aline160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
