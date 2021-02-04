@@ -15,7 +15,10 @@ _________________________________
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline160&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/aline-pereira-70276161/)](https://www.linkedin.com/in/aline-pereira-70276161/)
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Aline160&repo=Aline160&countColorcountColor)
 
 
 <!--
