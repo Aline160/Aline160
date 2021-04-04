@@ -8,7 +8,6 @@ _________________________________
  > Me dedico e estudo diariamente para entender um pouco mais das tecnologias do meu dia-a-dia.
 
 * 👩‍💼 Estudante de Sistemas de Informação 💙
-* 📚Estudando através da Reprograma em parceria com o M.I.N.A.S
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Aline160&show_icons=true&title_color=f40000&icon_color=f40000&text_color=6C63FF&bg_color=090000"/> </p>
