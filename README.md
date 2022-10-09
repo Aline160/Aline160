@@ -9,9 +9,10 @@ _________________________________
 * 👩‍💼 Estudante de Sistemas de Informação 💙
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Aline160&show_icons=true&title_color=f40000&icon_color=f40000&text_color=6C63FF&bg_color=090000"/> </p>
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline160&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aline160&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline160&layout=compact&langs_count=10&theme=merko"/>
+</div>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/aline-pereira-70276161/)](https://www.linkedin.com/in/aline-pereira-70276161/)
