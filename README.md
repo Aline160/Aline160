@@ -6,7 +6,7 @@ _________________________________
 
  > Meu nome é Aline, sou Nutricionista e atualmente estou me dedicando a mudar de carreira como desenvolvedora :woman_technologist: 
 
-* 👩‍💼 Estudante de Sistemas de Informação 💙
+* 👩‍💼 Graduada em Sistemas de Informação 💙
 
 
 <div align="center">
