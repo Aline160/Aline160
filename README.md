@@ -4,9 +4,10 @@ _________________________________
 
 ### Ei, tudo bem? 👋
 
- > Meu nome é Aline, sou Nutricionista e atualmente estou me dedicando a mudar de carreira como desenvolvedora :woman_technologist: 
+ > Meu nome é Aline,  sou desenvolvedora Full Stack :woman_technologist: 
 
 * 👩‍💼 Graduada em Sistemas de Informação 💙
+* 👩‍💼 Graduada em Nutrição 💙
 
 
 <div align="center">
